@@ -13,10 +13,12 @@ export default class About extends Component {
       </div>
     </div>
     <div className="split right">
+      <div className="name_title">Sergio Rodriguez</div>
       <div className="centered">
-        <div className="name_title">Sergio Rodriguez</div>
         <div className="brief_description">
-          // Details about you goes here
+          <ul>Computer Science studnet</ul>
+          <ul>Interest in Web Development</ul>
+          <ul>Webmaster for local CSUS SHPE</ul>
         </div>
       </div>
     </div>
